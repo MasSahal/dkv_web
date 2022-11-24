@@ -1,0 +1,9 @@
+.text-link {
+    color: darkgray;
+}
+
+.text-link:hover {
+    color: darkgray;
+    text-decoration: underline;
+    font-weight: bolder;
+}
